@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Eight_Puzzle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Start_Window.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControl_Need.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl_Puzzle_Pictures.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
